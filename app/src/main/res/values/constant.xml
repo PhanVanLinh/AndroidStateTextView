@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Alpha-->
+    <item format="float" name="alpha_default_pressed" type="integer">0.6</item>
+    <item format="float" name="alpha_default_selected" type="integer">0.6</item>
+    <item format="float" name="alpha_default_disabled" type="integer">0.5</item>
+    <item format="float" name="alpha_default_enabled" type="integer">1.0</item>
+</resources>

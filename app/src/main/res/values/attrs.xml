@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StateTextView">
+        <attr format="color" name="stv_colorSelected"/>
+        <attr format="color" name="stv_colorPressed"/>
+        <attr format="color" name="stv_colorDisabled"/>
+        <attr name="stv_state">
+            <flag name="pressed" value="1" />
+            <flag name="selected" value="2" />
+            <flag name="disabled" value="4" />
+        </attr>
+    </declare-styleable>
+</resources>
